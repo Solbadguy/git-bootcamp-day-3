@@ -46,5 +46,6 @@ taskmanager/
 
 </details>
 
-## Лицензия
+### Лицензия
 _MIT — https://opensource.org/licenses/MIT_
+
